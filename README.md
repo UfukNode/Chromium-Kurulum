@@ -52,6 +52,10 @@ docker --version
 realpath --relative-to /usr/share/zoneinfo /etc/localtime
 ```
 
+Örnek Çıktı:
+
+<img width="639" height="54" alt="image" src="https://github.com/user-attachments/assets/555edb16-dbbb-47f4-8264-dc59d75d4155" />
+
 ---
 
 ## 3- Chromium Dizini Oluştur
