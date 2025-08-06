@@ -1,11 +1,7 @@
-Tabii Ufuk, senin tarzına uygun, sade, direkt ve adım adım ilerleyen bir **Chromium Docker kurulumu rehberi** hazırladım. Bu rehberi GitHub’a `README.md` olarak koyabilirsin. İstersen markdown dosyasını sana ayrıca verebilirim.
+## Chromium Docker Kurulumu (VPS/Linux Cihazlar İçin)
 
----
-
-## Chromium Docker Kurulumu (GUI Olmayan VPS/Linux Cihazlar İçin)
-
-> Boundless Signal gibi tarayıcıdan çalışan işlemleri, GUI olmayan bir VPS ya da Linux cihaz üzerinde kullanabilmek için hazırlanmıştır.
-> Kurulum sonrası `localhost` ya da sunucu IP üzerinden erişim sağlayarak tarayıcıyı uzaktan kullanabilirsiniz.
+Boundless Signal gibi tarayıcıdan çalışan işlemleri, GUI olmayan bir VPS ya da Linux cihaz üzerinde kullanabilmek için hazırlanmıştır.
+Kurulum sonrası `localhost` ya da sunucu IP üzerinden erişim sağlayarak google benzeri tarayıcıyı uzaktan kullanabilirsiniz.
 
 ---
 
