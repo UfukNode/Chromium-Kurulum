@@ -5,7 +5,7 @@ Kurulum sonrası `localhost` ya da sunucu IP üzerinden erişim sağlayarak goog
 
 ---
 
-### 🔧 Gereksinimler
+### Gereksinimler
 
 * Ubuntu 20.04 / 22.04
 * Docker & Docker Compose
