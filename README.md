@@ -106,7 +106,7 @@ Kaydetmek için: `CTRL + X` > `Y` > `Enter`
 ## 4. Tarayıcıyı Başlat
 
 ```bash
-cd ~/chromium
+cd $HOME && cd chromium
 docker compose up -d
 ```
 
