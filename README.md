@@ -114,11 +114,11 @@ docker compose up -d
 
 ## 5. Tarayıcıya Erişim
 
-- **Kendi cihazındaysan tarayıcıya aşağıdaki bağlantıyı gir:**
+- **Kendi ubuntu cihazındaysan tarayıcıya örnekteki bağlantıyı gir:**
   `http://localhost:3010`
   `https://localhost:3011`
 
-- **VPS üzerindeyse VPS IP'ni <sunucu-ip> kısmına gir ve aşağıdaki bağlantıyı gir:**
+- **VPS üzerindeyse VPS IP'ni <sunucu-ip> kısmına gir ve örnekteki bağlantıyı gir:**
   `http://<sunucu-ip>:3010`
   `https://<sunucu-ip>:3011`
 
